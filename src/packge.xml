@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>KTD_ComponentBCOverview</members>
+        <members>KTD_ComponentCancellation</members>
+        <members>KTD_ComponentItinerarySummary</members>
+        <members>KTD_ComponentPricing</members>
+        <members>KTD_Document</members>
+        <members>KTD_DocumentInvoice</members>
+        <members>KTD_DocumentInvoiceTemplate</members>
+        <members>KTD_DocumentPDF</members>
+        <members>KTD_DocumentTemplate</members>
+        <name>ApexPage</name>
+    </types>
+    <version>54.0</version>
+</Package>
